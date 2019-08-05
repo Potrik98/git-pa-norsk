@@ -2,18 +2,18 @@
 
 ## Forslag til norske ord
 
-| Substantiv   | Forslag bokmål            | Forslag nynorsk           |
-|--------------|---------------------------|---------------------------|
-| repository   | kolleksjon                | kolleksjon                |
-| branch       | gren                      | grein                     |
-| commit       | bunt                      | bunt                      |
-| pull request | sammenføyningsforespørsel | samanføyingsførespurnad   |
-| stash        | lagringsstakk             | lagringsstakk             |
-| tag          | merkelapp                 | merkelapp                 |
-| fork         | sidespor                  | sidespor                  |
-| change       | endring                   | endring                   |
-| hash         | signatur                  | signatur                  |
-| remote       | utenforstående kolleksjon | utanforståande kolleksjon |
+| Substantiv   | Forslag bokmål            | Forslag nynorsk            |
+|--------------|---------------------------|----------------------------|
+| repository   | kolleksjon                | kolleksjon                 |
+| branch       | gren                      | grein                      |
+| commit       | bunt                      | bunt                       |
+| pull request | sammenføyningsforespørsel | førespurnad om samanføying |
+| stash        | lagringsstakk             | lagringsstakk              |
+| tag          | merkelapp                 | merkelapp                  |
+| fork         | sidespor                  | sidespor                   |
+| change       | endring                   | endring                    |
+| hash         | signatur                  | signatur                   |
+| remote       | utenforstående kolleksjon | utanforståande kolleksjon  |
 
 | Verb        | Forslag bokmål   | Forslag nynorsk |
 |-------------|------------------|-----------------|
