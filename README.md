@@ -2,17 +2,18 @@
 
 ## Forslag til norske ord
 
-| Substantiv   | Forslag bokmål            | Forslag nynorsk         |
-|--------------|---------------------------|-------------------------|
-| repository   | kolleksjon                | kolleksjon              |
-| branch       | gren                      | grein                   |
-| commit       | bunt                      | bunt                    |
-| pull request | sammenføyningsforespørsel | samanføyingsførespurnad |
-| stash        |                           |                         |
-| tag          | merkelapp                 | merkelapp               |
-| fork         | sidespor                  | sidespor                |
-| change       | endring                   | endring                 |
-| hash         | signatur                  | signatur                |
+| Substantiv   | Forslag bokmål            | Forslag nynorsk           |
+|--------------|---------------------------|---------------------------|
+| repository   | kolleksjon                | kolleksjon                |
+| branch       | gren                      | grein                     |
+| commit       | bunt                      | bunt                      |
+| pull request | sammenføyningsforespørsel | samanføyingsførespurnad   |
+| stash        | lagringsstakk             | lagringsstakk             |
+| tag          | merkelapp                 | merkelapp                 |
+| fork         | sidespor                  | sidespor                  |
+| change       | endring                   | endring                   |
+| hash         | signatur                  | signatur                  |
+| remote       | utenforstående kolleksjon | utanforståande kolleksjon |
 
 | Verb        | Forslag bokmål   | Forslag nynorsk |
 |-------------|------------------|-----------------|
@@ -27,7 +28,7 @@
 | stash       | stue bort        | stue bort       |
 | tag         | merke            | merke           |
 | cherry-pick | håndplukke       | handplukke      |
-| amend       | revidere         | revidere        |
+| amend       | tilføye          | tilføye         |
 | blame       | klandre          | klandre         |
 | fork        | splitte          | splitte         |
 
