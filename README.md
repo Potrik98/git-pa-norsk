@@ -9,7 +9,7 @@
 | commit        | bunt                      | bunt                      |
 | pull request  | fletteforespørsel         | førespurnad om fletting   |
 | merge request | fletteforespørsel         | førespurnad om fletting   |
-| stash         | lagringsstakk             | lagringsstakk             |
+| stash         | gjemmested                | gøymestad                 |
 | tag           | merkelapp                 | merkelapp                 |
 | fork          | sidespor                  | sidespor                  |
 | change        | endring                   | endring                   |
